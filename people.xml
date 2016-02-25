@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+  <person ID="01245cdf45x">
+    <title>M.</title>
+    <name>Malcolm X</name>
+    <name>Malik Shabazz</name>
+    <name>Malcolm Little</name>
+    <born>19 May 1925</born>
+    <died>21 February 1965</died>
+	<nationality>american</nationality>
+  </person>
+  <person ID="012qsabc3456002">
+    <title>M.</title>
+    <name>Mahatma Gandhi</name>
+    <born>2 October 1869</born>
+    <died>30 January 1948</died>
+    <nationality>Indian</nationality>
+  </person>
+  <person ID="0457d7887897">
+    <title>M.</title>
+    <name>John F. Kennedy</name>
+    <name>JFK</name>
+    <name>Jack Kennedy</name>
+    <born>20 January 1961</born>
+    <died>22 November 1963</died>
+	<nationality>american</nationality>
+  </person>
+</people>
