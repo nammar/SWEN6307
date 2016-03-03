@@ -1,0 +1,91 @@
+{
+  "set-up" : {
+    "request" : "resources/generatedrequests/request1.xml",
+    "nbWarmupRuns" : 10,
+    "nbThreads" : 1,
+    "nbTestRuns" : 100,
+    "start" : "2014-10-10 16:44:43",
+    "end" : "2014-10-10 16:44:44"
+  },
+  "results" : {
+    "mdc.xacml.concurrency.PDPThread" : {
+      "pdp-evaluate" : {
+        "type" : "timer",
+        "duration" : {
+          "unit" : "milliseconds",
+          "min" : 7.908,
+          "max" : 20.912,
+          "mean" : 11.11135,
+          "std_dev" : 2.1266967005336244,
+          "sum" : 1111.135,
+          "median" : 10.785,
+          "p75" : 12.2,
+          "p95" : 14.307949999999998,
+          "p98" : 19.185480000000013,
+          "p99" : 20.89537999999999,
+          "p999" : 20.912
+        },
+        "rate" : {
+          "unit" : "seconds",
+          "count" : 100,
+          "mean" : 64.96455209215091,
+          "m1" : 0.0,
+          "m5" : 0.0,
+          "m15" : 0.0
+        }
+      }
+    },
+    "mdc.xacml.concurrency.pdp.LocalAttributeFinderModule" : {
+      "fetchAttribute" : {
+        "type" : "timer",
+        "duration" : {
+          "unit" : "milliseconds",
+          "min" : 0.29,
+          "max" : 1.647,
+          "mean" : 0.537595,
+          "std_dev" : 0.14654718370563136,
+          "sum" : 537.595,
+          "median" : 0.521,
+          "p75" : 0.62875,
+          "p95" : 0.8078499999999998,
+          "p98" : 0.88492,
+          "p99" : 0.93095,
+          "p999" : 1.6463950000000143
+        },
+        "rate" : {
+          "unit" : "seconds",
+          "count" : 1000,
+          "mean" : 649.9740335373602,
+          "m1" : 0.0,
+          "m5" : 0.0,
+          "m15" : 0.0
+        }
+      },
+      "findAttribute" : {
+        "type" : "timer",
+        "duration" : {
+          "unit" : "milliseconds",
+          "min" : 0.335,
+          "max" : 12.174,
+          "mean" : 0.738151,
+          "std_dev" : 0.516356966366985,
+          "sum" : 738.151,
+          "median" : 0.5965,
+          "p75" : 0.7927500000000001,
+          "p95" : 1.5947999999999998,
+          "p98" : 1.79,
+          "p99" : 1.92594,
+          "p999" : 12.16468100000022
+        },
+        "rate" : {
+          "unit" : "seconds",
+          "count" : 1000,
+          "mean" : 649.0556240669825,
+          "m1" : 0.0,
+          "m5" : 0.0,
+          "m15" : 0.0
+        }
+      }
+    }
+  }
+}
