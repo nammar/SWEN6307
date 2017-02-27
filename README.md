@@ -5,6 +5,10 @@ The instructor will use this repository to upload required software, sample code
 # PreCourse Survey
 https://goo.gl/forms/Mh9Vk98KfAhP6Hvu1
 
+# Team collaboration sheet
+https://docs.google.com/spreadsheets/d/1sSLXSavPxueFNcWhkm2yvAPHfrykkyeKbM3E68wiI58/edit?usp=sharing
+
+
 # List of required software for the course
 
 1. To be able to work on projects in teams or to be able to stay synchronized with the course material (sample code, software, etc.) you  need to creat a github account (github.com) (just like the instructors account). Then you can download and isntall the github desktop app (https://desktop.github.com). More about this later.
