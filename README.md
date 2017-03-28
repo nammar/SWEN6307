@@ -28,4 +28,12 @@ Netbeans comes with SOA modules (for creation and deployment of Web services).
 
 7. Data files (people.xml, file1.json, etc.)
 
-# Sample WSDL files
+# UDDI API implementation 
+
+8. Apache jUddi (https://juddi.apache.org)
+
+9. Sample code: UDDIRegistry.java
+
+10. Sample taxonomy file: WS2NG.xml
+
+ 
