@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebService  name="WS2">
+    <Topic name="News">
+        <Category name="News"></Category>
+    </Topic>
+    <Topic name="Financial News">
+         <Category name="News"></Category>
+    </Topic>
+    <Topic name="Whether News">
+         <Category name="News"></Category>
+    </Topic>
+    <Topic name="Stock News">
+         <Category name="News"></Category>
+    </Topic>
+    <Topic name="Sports">
+         <Category name="Sports"></Category>
+    </Topic>
+    <Topic name="Soccer Sports">
+         <Category name="Sports"></Category>
+    </Topic>
+    <Topic name="BasketBall Sports">
+         <Category name="Sports"></Category>
+    </Topic>
+    <Topic name="FootBall Sports">
+         <Category name="Sports"></Category>
+    </Topic>
+</WebService>
+
