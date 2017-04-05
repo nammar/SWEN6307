@@ -28,6 +28,7 @@ Netbeans comes with SOA modules (for creation and deployment of Web services).
 
 7. Data files (people.xml, file1.json, etc.)
 
+
 # UDDI API implementation 
 
 8. Apache jUddi (https://juddi.apache.org)
@@ -35,5 +36,17 @@ Netbeans comes with SOA modules (for creation and deployment of Web services).
 9. Sample code: UDDIRegistry.java
 
 10. Sample taxonomy file: WS2NG.xml
+
+# BPEL related stuff
+
+11. BPELUnit.model project for creating BPEL models via APIs  
+12. BPELUnit project for testing 
+  a. http://bpelunit.github.io/documentation/
+  b. https://github.com/bpelunit/bpelunit
+  c. https://groups.google.com/forum/#!forum/bpelunit
+13. BPEL Engines (ActiveBPEL which is incorporated in the BPELUnit framework)
+
+# Sample WSDL files with service descriptions and QoS requirements and statistics 
+14. QWS data set (http://www.uoguelph.ca/~qmahmoud/qws/)
 
  
